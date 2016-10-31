@@ -10,6 +10,12 @@ namespace NrPrim
     {
         static void Main(string[] args)
         {
+
+        }
+
+        static bool IsPrime(int x)
+        {
+            return false;
         }
     }
 }
