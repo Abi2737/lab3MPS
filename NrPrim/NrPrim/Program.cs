@@ -10,6 +10,7 @@ namespace NrPrim
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("ana are mere");
         }
     }
 }
