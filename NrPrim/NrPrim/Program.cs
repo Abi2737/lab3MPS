@@ -10,7 +10,7 @@ namespace NrPrim
     {
         static void Main(string[] args)
         {
-
+            int nr = 2737;
         }
 
         static bool IsPrime(int x)
