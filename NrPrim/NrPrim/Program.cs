@@ -10,7 +10,9 @@ namespace NrPrim
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("ana are mere");
             int nr = 2737;
+
         }
 
         static bool IsPrime(int x)
